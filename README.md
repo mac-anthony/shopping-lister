@@ -10,7 +10,7 @@ This is the [link](https://github.com/mac-anthony/shopping-lister) to the Github
 
 ## Sample Website
 
-A live demo is already available via this [link](https://myportfolio-webdev.herokuapp.com/)
+A live demo is already available via this [link](https://shopping-listerr.netlify.app/)
 
 ## Tech Stack
 
